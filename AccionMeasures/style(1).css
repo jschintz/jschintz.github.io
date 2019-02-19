@@ -1,0 +1,88 @@
+/*
+Theme Name: Accion Theme
+Theme URI: http://www.llt-group.com
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+.resource-template-default.post-content a {color:#ffffff}
+.page-template-landing-exc .sub-nav nav a {
+	font-family: "Avenir Next LT W01 Demi";
+	letter-spacing: 0.02em;
+}
+
+/* IMPACT STUDY */
+@-webkit-keyframes pulse {
+	0% {
+		-webkit-box-shadow: 0 0 0 0 rgba(243,247,251, 1);
+	}
+	70% {
+      -webkit-box-shadow: 0 0 0 10px rgba(243,247,251, 0);
+  	}
+	100% {
+      -webkit-box-shadow: 0 0 0 0 rgba(243,247,251, 0);
+  	}
+}
+@-moz-keyframes pulse {
+	0% {
+		-moz-box-shadow: 0 0 0 0 rgba(243,247,251, 1);
+	}
+	70% {
+      -moz-box-shadow: 0 0 0 10px rgba(243,247,251, 0);
+  	}
+	100% {
+      -moz-box-shadow: 0 0 0 0 rgba(243,247,251, 0);
+  	}
+}
+@-moz-keyframes pulse {
+	0% {
+		-o-box-shadow: 0 0 0 0 rgba(243,247,251, 1);
+	}
+	70% {
+      -o-box-shadow: 0 0 0 10px rgba(243,247,251, 0);
+  	}
+	100% {
+      -o-box-shadow: 0 0 0 0 rgba(243,247,251, 0);
+  	}
+}
+@keyframes pulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 rgba(243,247,251, 1);
+	-o-box-shadow: 0 0 0 0 rgba(243,247,251, 1);
+    box-shadow: 0 0 0 0 rgba(243,247,251, 1);
+  }
+  70% {
+      -moz-box-shadow: 0 0 0 10px rgba(243,247,251, 0);
+      box-shadow: 0 0 0 10px rgba(243,247,251, 0);
+  }
+  100% {
+      -moz-box-shadow: 0 0 0 0 rgba(243,247,251, 0);
+      box-shadow: 0 0 0 0 rgba(243,247,251, 0);
+  }
+}
+.page-template-landing-exc .slider .goals-slider .slick-arrow:after, .page-template-landing-exc .slider .goals-slider .slick-arrow:before {
+	background-color: #37BFBF;
+	width: 25px;
+	height: 4px;
+}
+.page-template-landing-exc .slider .goals-slider .slick-arrow {
+	top: -67px;
+	border-radius: 100%;
+	animation: pulse 0.75s infinite;
+	-webkit-animation: pulse 0.75s infinite;
+	-o-animation: pulse 0.75s infinite;
+	-moz-animation: pulse 0.75s infinite;
+}
+.page-template-landing-exc .slider .goals-slider .slick-arrow.slick-next {
+	right: 0;
+}
+.page-template-landing-exc .slider .goals-slider .slick-arrow.slick-prev {
+	left: 0;
+}
+.page-template-landing-exc #participants .contain > header h2 p {
+	font-size: 20px;
+	font-family: "AvenirNextLTW01-Regular";
+}
+.page-template-landing-exc .whats-next .prioroties h2 {
+	font-weight: normal;
+}
