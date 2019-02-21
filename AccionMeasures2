@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+	</header>
+
+	<main role="main">
+
+	
+<header id="hero" style="background-image:url(&#39;https://jschintz.github.io/AccionMeasures/Accion-Measures.png&#39;)">
+            <div class="contain _very-narrow">
+                        <h1>Measuring Accion</h1>
+                            <h2><p>A quarterly tracker, capturing volume of mission-based lending services to small businesses in the United States since 2013</p>
+</h2>
+                    </div>
+    </header>
+<style>
+#header + main {
+	margin-top: 0;
+}
+#top_nav {
+	display: none;
+}
+#feedbackify {
+	display: none;
+}
+#main_nav {
+	display: none;
+}
+#footer {
+	display: none;
+}
+</style>
+<!-- BEGIN of main content -->
+<main role="main">
+										<section class="sub-nav" id="sub-nav" style="height: 74px;">
+					<nav class="loaded" style="">
+																					<a href="https://jschintz.github.io/AccionMeasures/#at-a-glance" class="is-inview">At a Glance</a>
+																												<a href="https://jschintz.github.io/AccionMeasures/#who-we-serve" class="">Who we serve</a>
+																												<a href="https://jschintz.github.io/AccionMeasures/#our-members" class="">Our members</a>
+																												<a href="https://jschintz.github.io/AccionMeasures/#portfolio-risk" class="">Portfolio Risk</a>
+						<a href="https://jschintz.github.io/AccionMeasures/#most-recent-quarter" class="">Most recent quarter</a>
+						<a href="https://jschintz.github.io/AccionMeasures/#about-the-data" class="">About the Data</a>
+																		</nav>
+				</section>
+									<section class="success" id="at-a-glance">
+	<div class="contain">
+	<div class='tableauPlaceholder' id='viz1550587221753' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LARQ12019&#47;Ataglance&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LARQ12019&#47;Ataglance' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LARQ12019&#47;Ataglance&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1550587221753');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1827px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+										</div>
+										</div>
+										<div class="row clearfix">
+										
+		</section>
+						</section>
+									<section class="participants" id="who-we-serve">
+	<div class="contain">
+		<div class='tableauPlaceholder' id='viz1550587317304' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LARQ12019&#47;Whoweserve&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LARQ12019&#47;Whoweserve' /><param name='tabs' value='no' /><param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LARQ12019&#47;Whoweserve&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1550587317304');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else { vizElement.style.minWidth='1100px';vizElement.style.maxWidth='100%';vizElement.style.height='1973px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+										</div>
+										</div>
+										<div class="row clearfix">
+										
+		</section>
+										<section class="success" id="our-members">
+	<div class="contain">
+		<div class='tableauPlaceholder' id='viz1550587393999' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PF&#47;PF767W8M7&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;PF767W8M7' /> <param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PF&#47;PF767W8M7&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1550587393999');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1100px';vizElement.style.height='827px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+					</div>
+											</div>
+											<div class="row clearfix">
+										
+		</section>
+										<section class="participants" id="portfolio-risk">
+	<div class="contain">
+		<div class='tableauPlaceholder' id='viz1550587438519' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;R2&#47;R25YRRW96&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;R25YRRW96' /> <param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;R2&#47;R25YRRW96&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1550587438519');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1100px';vizElement.style.height='827px';} else { vizElement.style.minWidth='1100px';vizElement.style.maxWidth='100%';vizElement.style.height='1973px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+					</div>
+											</div>
+											<div class="row clearfix">
+										
+		</section>
+										<section class="success" id="most-recent-quarter">
+	<div class="contain">
+		<div class='tableauPlaceholder' id='viz1550612921045' style='position: relative'><noscript><a href='https:&#47;&#47;us.accion.org&#47;'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TJ&#47;TJP892YQ5&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;TJP892YQ5' /> <param name='toolbar' value='no' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TJ&#47;TJP892YQ5&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1550612921045');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1100px';vizElement.style.height='823px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1100px';vizElement.style.height='823px';} else { vizElement.style.minWidth='1100px';vizElement.style.maxWidth='100%';vizElement.style.height='1973px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>	
+											</div>
+											<div class="row clearfix">
+										
+		</section>
+											<section class="whats-next" id="about-the-data">
+
+	<div class="blue-bg">
+		<div class="contain">
+							<header>
+											<h2>About the Loan Activity Report</h2>
+</h2>
+									</header>
+					</div>
+		<div class="contain">
+			<div class="content text">
+				<p>The Loan Activity Report tracks quarterly how Accion's loan portfolio of small business borrowers has changed over time.  Since 2013, the information measures how key performance indicators evolve, allowing for quick insight into our network of providers.  Through this content users can enjoy simple metrics that describe Accion's success and dig deeper into the content by selecting custom time-frames  or hovering over graph's to display additional details.
+</p>
+<p>&nbsp;</p>
+			</div>
+			<div class="content icons">
+				<p><img class="alignnone size-medium wp-image-9103" src="https://dev.usaccion.org/wp-content/uploads/2018/04/accion-white.svg" alt="" width="144" height="1">&nbsp; &nbsp; &nbsp; &nbsp; <img class="alignnone size-medium wp-image-9104" src="https://dev.usaccion.org/wp-content/uploads/2018/04/opportunity-fund-white.svg" alt="" width="1" height="1"></p>
+<p>&nbsp;</p>
+			</div>
+		</div>
+	</div>	
+
+	</section>
+										</main>
+	<!-- END of main content -->
+
+<script>
+(function(a, b, c, d, e, m) {
+a['OktopostTrackerObject'] = d;
+a[d] = a[d] || function() {
+(a[d].q = a[d].q || []).push(arguments);
+};
+e = b.createElement('script');
+m = b.getElementsByTagName('script')[0];
+e.async = 1;
+e.src = ('https:' === document.location.protocol ? 'https://&#39;<https://%27/> : 'http://&#39;)<http://%27%29/> + c;
+m.parentNode.insertBefore(e, m);
+})(window, document, 'static.oktopost.com/oktrk.js', '_oktrk');
+_oktrk('create', '001kb03mq2zjhjb');
+</script>
+<script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//marketing.opportunityfund.org/cdnr/25/acton/bn/tracker/32187';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
+</main>
+<footer id="footer">
+    <div class="contain">
+        <div class="clearfix">
+            <nav>
+                                                                                <ul>
+                            <!-- <li>
+                                <h6></h6>
+                            </li> -->
+                            <li><a href="https://us.accion.org/small-business-loans/">Small Business Loans</a></li>
+<li class="apply"><a href="https://jschintz.github.io/AccionMeasures/#">Apply For A Loan</a></li>
+<li><a href="https://us.accion.org/small-business-loans/who-we-lend-to/">Who We Lend To</a></li>
+<li><a href="https://us.accion.org/small-business-loans/see-if-i-qualify/">See If I Qualify</a></li>
+<li><a href="https://us.accion.org/small-business-loans/local-offers/">Local Offers</a></li>
+<li><a href="https://us.accion.org/small-business-loans/faqs/">FAQs</a></li>
+                        </ul>
+                                                                                                    <ul>
+                            <!-- <li>
+                                <h6></h6>
+                            </li> -->
+                            <li><a href="https://us.accion.org/resources/">Business Resources</a></li>
+<li><a href="https://us.accion.org/resources/articles-videos-and-webinars/">Articles, Videos &amp; Webinars</a></li>
+<li><a href="https://us.accion.org/resources/programs-and-mentoring/">Programs &amp; Mentoring</a></li>
+<li><a href="https://us.accion.org/resources/upcoming-events/">Upcoming Events</a></li>
+<li><a href="https://us.accion.org/newsletter-signup/">Newsletter Signup</a></li>
+                        </ul>
+                                                                                                    <ul>
+                            <!-- <li>
+                                <h6></h6>
+                            </li> -->
+                            <li><a href="https://us.accion.org/partner-with-us/">Partner With Us</a></li>
+<li><a href="https://us.accion.org/partner-with-us/donate/">Donate</a></li>
+<li><a href="https://us.accion.org/partner-with-us/our-partners/">Our Partners</a></li>
+<li class="active"><a href="https://jschintz.github.io/AccionMeasures/">Lending Impact Study</a></li>
+<li><a href="https://us.accion.org/partner-with-us/careers/">Careers</a></li>
+                        </ul>
+                                                                                                    <ul>
+                            <!-- <li>
+                                <h6></h6>
+                            </li> -->
+                            <li><a href="https://us.accion.org/about-us/">About Us</a></li>
+<li><a href="https://us.accion.org/contact-us/">Contact Us</a></li>
+<li><a href="https://us.accion.org/about-us/our-approach/">Our Approach</a></li>
+<li><a href="https://us.accion.org/about-us/our-clients/">Client Stories</a></li>
+<li><a href="https://us.accion.org/about-us/our-locations/">Locations</a></li>
+<li><a href="https://us.accion.org/about-us/news-press/">News &amp; Press</a></li>
+<li><a target="_blank" href="https://www.accion.org/">Accion Global</a></li>
+                        </ul>
+                                                                                                    <ul>
+                            <!-- <li>
+                                <h6></h6>
+                            </li> -->
+                            <li><a href="https://jschintz.github.io/AccionMeasures/#">More</a></li>
+<li><a href="https://us.accion.org/important-customer-info/">Important Consumer Info</a></li>
+<li><a href="https://us.accion.org/annual-reports-financials/">Annual Reports &amp; Financials</a></li>
+<li><a href="https://us.accion.org/privacy-policy/">Privacy Policy</a></li>
+                        </ul>
+                                                </nav>
+            <aside>
+                <a href="https://us.accion.org/partner-with-us/donate/" target="_blank" class="button">Donate</a>
+                <ul>
+                    <li>
+                        <a href="https://twitter.com/AccionUS" target="_blank">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/accion_us/" target="_blank">
+                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCZ38sbEOpwIY7M4ENTo2P8w" target="_blank">
+                            <i class="fa fa-youtube" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                </ul>
+            </aside>
+        </div>
+        <div class="copyright">
+            <div>
+                <a href="https://us.accion.org/">
+					<img src="./AccionMeasures/logo.svg" alt="Accion Logo">
+				</a>
+                <p>© 2019Accion is a 501(c)(3) nonprofit organization. All rights reserved.</p>
+            </div>
+    </div>
+</div></footer>
+<aside class="modal modal--apply">
+	<div class="apply-wrapper">
+		<span class="close"></span>
+		
+                <div class="gf_browser_chrome gform_wrapper" id="gform_wrapper_3"><form method="post" enctype="multipart/form-data" id="gform_3" action="https://jschintz.github.io/AccionMeasures/">
+                        <div class="gform_heading">
+                            <h3 class="gform_title">Apply for a loan</h3>
+                            <span class="gform_description">In just 15 minutes, you can be on your way toward applying for a small business loan. Start by telling us a little about yourself.<br>
+<em>* All fields are required</em></span>
+                        </div>
+                        <div class="gform_body"><ul id="gform_fields_3" class="gform_fields top_label form_sublabel_below description_below"><li id="field_3_1" class="gfield with-icon with-icon--person gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_3_1">First Name<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_1" id="input_3_1" type="text" value="" class="large" aria-required="true" aria-invalid="false"></div></li><li id="field_3_2" class="gfield with-icon with-icon--person gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_3_2">Last Name<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_2" id="input_3_2" type="text" value="" class="large" aria-required="true" aria-invalid="false"></div></li><li id="field_3_3" class="gfield with-icon with-icon--zip gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_3_3">Business Zip Code<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_3" id="input_3_3" type="text" value="" class="large" aria-required="true" aria-invalid="false"></div></li><li id="field_3_4" class="gfield with-icon with-icon--email gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_3_4">Email Address<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_email">
+                            <input name="input_4" id="input_3_4" type="text" value="" class="large" aria-required="true" aria-invalid="false">
+                        </div></li><li id="field_3_8" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_8" id="input_3_8" type="hidden" class="gform_hidden" aria-invalid="false" value=""></li><li id="field_3_7" class="gfield field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label inputHasVal"></label><div class="ginput_container ginput_container_checkbox"><ul class="gfield_checkbox" id="input_3_7"><li class="gchoice_3_7_1">
+								<input name="input_7.1" type="checkbox" value="Sign Up to receive our Business Resource Newsletter!" id="choice_3_7_1">
+								<label for="choice_3_7_1" id="label_3_7_1" class="inputHasVal">Sign Up to receive our Business Resource Newsletter!</label>
+							</li></ul></div></li>
+                            </ul></div>
+        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_3" class="gform_button button" value="Continue to Application" onclick="if(window[&quot;gf_submitting_3&quot;]){return false;}  window[&quot;gf_submitting_3&quot;]=true;  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_3&quot;]){return false;} window[&quot;gf_submitting_3&quot;]=true;  jQuery(&quot;#gform_3&quot;).trigger(&quot;submit&quot;,[true]); }"> 
+            <input type="hidden" class="gform_hidden" name="is_submit_3" value="1">
+            <input type="hidden" class="gform_hidden" name="gform_submit" value="3">
+            
+            <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+            <input type="hidden" class="gform_hidden" name="state_3" value="WyJbXSIsIjRjMzhhY2VlMzY5NzBhYTZiZmRkYjhlMThkYjAyMTYyIl0=">
+            <input type="hidden" class="gform_hidden" name="gform_target_page_number_3" id="gform_target_page_number_3" value="0">
+            <input type="hidden" class="gform_hidden" name="gform_source_page_number_3" id="gform_source_page_number_3" value="1">
+            <input type="hidden" name="gform_field_values" value="">
+            
+        </div>
+                        </form>
+                        </div><script type="text/javascript"> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 3) {if(!/(android)/i.test(navigator.userAgent)){jQuery('#input_3_3').mask('99999').bind('keypress', function(e){if(e.which == 13){jQuery(this).blur();} } );}} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [3, 1]) } ); </script>
+						<div class="apply__testimonial">
+							<div class="apply__testimonial__image">
+					<img src="./AccionMeasures/Chicago_PamelaJonesC_0-e1505870680317.jpg" alt="Featured Image">
+				</div>
+						<div class="apply__testimonial__content">
+									<p>"At Accion, the loan process was straightforward. Now I have a whole line of sauces in 200 stores."</p>
+					<br>
+								<h5>Pamela A. Jones</h5>
+									<p>Charboy's</p>
+							</div>
+		</div>
+		</div>
+</aside>
+<script>
+jQuery(document).ready(function() {
+var search = window.location.search;
+var match = search.indexOf('code');
+if(match >= 0) {
+ search = search.slice(1);
+ var pieces = search.split('=');
+ var index = pieces.indexOf('code');
+ var code = pieces[index+1];
+ jQuery('#bank-validation').attr('src', 'https://widget.decisionlogic.com/Service.aspx?requestCode='+code);
+};
+var widgetUpdate = "En solo 15 minutos, usted puede solicitar un préstamo para pequeños negocios. Comience por contarnos un poco acerca de usted.<br/> <em>* Todos los espacios en blanco son obligatorios</em>";
+jQuery('.button.apply').on('click', function(event) {
+ var pathname = window.location.pathname;
+ var isSpanish = pathname.indexOf('/es/') >= 0;
+ if (isSpanish) {
+  jQuery(".gform_description").html(widgetUpdate);
+ }
+});
+});
+</script><link rel="stylesheet" id="gravityformsmailchimp_form_settings-css" href="./AccionMeasures/form_settings.css" type="text/css" media="all">
+<script type="text/javascript" src="./AccionMeasures/global.min.js.download"></script>
+<script type="text/javascript" src="./AccionMeasures/slick.min.js.download"></script>
+<script type="text/javascript" src="./AccionMeasures/js(1)"></script>
+<script type="text/javascript" src="./AccionMeasures/scrollspy.js.download"></script>
+<script type="text/javascript" src="./AccionMeasures/landing.js.download"></script>
+<script type="text/javascript" src="./AccionMeasures/wp-embed.min.js.download"></script>
+<script type="text/javascript" src="./AccionMeasures/jquery.maskedinput.min.js.download"></script>
+
+
+
+<div id="feedbackify"><div id="fby-screen" class="fby-screen"><div id="fby-mask" class="fby-mask"></div><div id="fby-tab-10622" class="fby-tab fby-tab-l"><a href="https://jschintz.github.io/AccionMeasures/" style="background-color:#6BBBAE!important" aria-label="Feedback"></a></div></div></div></body></html>
